@@ -3,7 +3,8 @@
 ***********************************************************************************
 This app is used to translate Engish speech in to Hindi language.
 To use this app first required this changes other wise it will show error.
-Working.
+
+*******************************************  Working. ***********************************
      Click on mike Button on home screen and speeck in English. It will recognise your languare and it will translate  and return Array String in English language.
      Now this English string will change in hindi at background and it will show on next screen.
 
