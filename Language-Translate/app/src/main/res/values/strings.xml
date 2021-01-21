@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Language Translation</string>
-    <string name="home_welcome">Welcome to the Language\n Translation app</string>
-    <string name="mykey">ENTER YOUR API KYE HERE</string>
-</resources>
